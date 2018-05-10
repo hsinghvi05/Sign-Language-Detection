@@ -27,7 +27,8 @@ _____________________________________________________________________________
 	1. Run using 'python run.py <index>'
 		Index: 0 for default camera, 1 for external camera.
 	2. Controls: 
-		s	: Toggle hand band detection.
+		s	: Toggle hand band detection (green band on wrist).
+			  Value can be ajusted using trackbar.
 		d	: Toggle contour for debugging band detection.
 		ijkl: moving the band box in corresponding direction.
 	3. Use trackbar for adjusting the HSV values for band color detection.
