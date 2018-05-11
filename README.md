@@ -7,6 +7,7 @@ ___________________________________________________________________________
 Train.py:
 
 	1. Our final trained model is already provided "keras.FINAL_MODEL4".
+	   Model download link: https://drive.google.com/open?id=1BRhuD3msM9xKETMrRlmKAR2dqTjCTckT
 
 	2. If model is not present, create model using this file (Needs Dataset).
 		dataset:
