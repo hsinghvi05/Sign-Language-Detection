@@ -30,7 +30,17 @@ _____________________________________________________________________________
 		s	: Toggle hand band detection (green band on wrist).
 			  Value can be ajusted using trackbar.
 		d	: Toggle contour for debugging band detection.
-		ijkl: moving the band box in corresponding direction.
+		ijkl	: moving the band box in corresponding direction.
 	3. Use trackbar for adjusting the HSV values for band color detection.
 
 _____________________________________________________________________________
+
+Create.py:
+
+	1. Run using 'python create.py'
+	2. Enter index for camera 0 or 1.
+	3. i=1 for A.
+	4. Press s to save the picture of hand gesture.
+	
+_____________________________________________________________________________
+	
